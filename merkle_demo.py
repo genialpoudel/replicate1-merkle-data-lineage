@@ -19,7 +19,7 @@ def build_merkle_root(hashes):
 
 rows = [
     "user1,25,approved",
-    "user2,40,denied",
+    "user2,40,approved",
     "user3,31,approved",
     "user4,29,approved"
 ]
